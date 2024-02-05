@@ -1,0 +1,88 @@
+.sidebar{
+  background-color: white;
+  position: fixed;
+  top: 50px;
+  bottom: 0;
+  padding: 0 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1px;
+}
+
+ .home-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+.home-img{
+  width: 13px;
+}
+
+p.home-text{
+  font-size: 1px;
+}
+
+.explore-container{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-bottom: 15px;
+}
+.explore{
+width: 18px;
+}
+.ex-p{
+font-size: 6px;
+}
+.subscription{
+width: 50px;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-bottom: 15px;
+}
+.sub{
+width: 13px;
+}
+.subscription-p{
+font-size: 6px;
+}
+.originals{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-bottom: 15px;
+}
+.original{
+width: 13px;
+}
+.o-p{
+font-size: 6px;
+}
+.youtube-music{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-bottom: 15px;
+}
+.music{
+  width: 13px;
+}
+.ym{
+  font-size: 6px;
+}
+.libary{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 15px;
+}
+.lib{
+  width: 13px;
+}
+.l{
+  font-size: 6px;
+}

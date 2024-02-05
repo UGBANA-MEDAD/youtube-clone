@@ -1,0 +1,29 @@
+.side-nav{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 3px;
+  background-color: white;
+  border: 1px solid blue;
+}
+.home,
+.library,
+.explore,
+.subscriptions,
+.originals,
+.youtube-music{
+  width: 13px;
+}
+
+.side-nav p{
+  font-size: 6px;
+}
+.side-nav button{
+  background-color: transparent;
+  border: none;
+  margin-top: 23px;
+}
